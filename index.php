@@ -41,14 +41,13 @@
             </p>
               <button type ="button">Buy it</button>
           </article>
-          <article class="prato">
-            <img src="imagens/prato 02.jpg" alt="Prato 02">
-            <h4>Prato 02</h4>
-            <h4>R$ 38,00</h4>
-            <p>Espetinho de legumes saltiados e levados ao forno ao molho teriyaki e pasta de pimenta malagueta, acompanha salada de repolho ao dente
-              com cebola ralada.Serve até duas pessoas.
+          <article class="clothe">
+            <img src="img/foto2.jpg" alt="Foto 2">
+            <h4>Cardigan Tricô</h4>
+            <h4>R$ 85,00</h4>
+            <p>Cardigan de tricô semi-novo, azul marinho.
             </p>
-              <button type ="button">Quero esse prato</button>
+              <button type ="button">Buy it</button>
           </article>
           <article class="prato">
             <img src="imagens/prato 03.jpg" alt="Prato 03"height="300px">
