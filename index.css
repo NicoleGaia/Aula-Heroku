@@ -42,7 +42,7 @@
     height: 300px;
     display:  flex;
     justify-content: left;
-    align-items: inherit;
+    align-items: center;
   }
   
   header .hero #formSearch{
