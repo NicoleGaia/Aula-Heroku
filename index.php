@@ -38,7 +38,7 @@
         #page>main{
             grid-area: main;
             background-color: khaki;
-            height: 511px;
+            height: 513px;
         }
         h1{
             color:black;
