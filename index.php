@@ -21,15 +21,17 @@
         #page>header{
             grid-area: header;
             background-color: cornflowerblue;
+            height: 75px;
         }
         #page>nav{
             grid-area: nav;
-            background-color: darkseagreen
+            background-color: darkseagreen;
+            width: 30px;
         }
         #page>footer{
             grid-area: footer;
             background-color: darksalmon;
-            height: 85px;
+            height: 75px;
         }
         #page>main{
             grid-area: main;
