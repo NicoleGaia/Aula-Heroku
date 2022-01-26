@@ -53,6 +53,9 @@
             text-align: center;
             height: 40px;
         }
+        h1{
+            height: 40px;
+        }
 
     </style>
 </head>
@@ -63,8 +66,6 @@
             </header>
             <nav>
                 <h1>
-                <br>
-                <br>
                     21:4
                 </h1>
             </nav>
