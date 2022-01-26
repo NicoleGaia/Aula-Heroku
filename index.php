@@ -3,86 +3,85 @@
 
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-    <meta name="viewport" content="width-device-width">
-    <title>Aula Heroku</title>
-    <style>
-        #page{
-            display: grid;
-            width: 100%;
-            height: 250px;
-            grid-template-areas: "header header"
-            "nav main"
-            "nav footer";
-            grid-template-rows: 50px 1fr 60px;
-            grid-template-columns: 55px 1fr;
-        }
-        #page>header{
-            grid-area: header;
-            background-color: cornflowerblue;
-            height: 92px;
-        }
-        #page>nav{
-            grid-area: nav;
-            background-color: darkseagreen;
-            width: 60px;
-            left: 10px;
-            height: 572px;
-        }
-        #page>footer{
-            grid-area: footer;
-            background-color: darksalmon;
-            height: 61px;
-        }
-        #page>main{
-            grid-area: main;
-            background-color: khaki;
-            height: 514px;
-        }
-        h1{
-            color:black;
-            text-align: center;
-            font-size: 25px;
-        }
-        h2{
-            text-align: center;
-            height: 50px;
-        }
-        p{
-            text-align: center;
-            height: 40px;
-        }
-        h1{
-            text-align: center;
-            height: 50px;
-        }
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bolevart Restaurante</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container">
+          <a href="index.html" class="logo">
+            <h1>Bolevart Restaurante</h1>
+          </a>
+          <div class="menu">
+            <ul>
+              <li>
+                <a href="sobre.html">Sobre nosso estabelecimento</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
 
-    </style>
-</head>
-<body>
-<section id="page">
-            <header>
-                <h2>Aula Heroku - Nicole Gaia</h2> 
-            </header>
-            <nav>
-                <h1>
-                    21:4
-                </h1>
-            </nav>
-            <main>
-                <br>
-                <br>
-                <p>
-                    "He will wipe every tear from their eyes. 
-                    There will be no more death or mourning or crying or pain, 
-                    for the old order of things has passed away.”
-                </p>
-            </main>
-            
-            <footer>
-                <h1>Come on.... LET'S BURN</h1>
-            </footer>
+      <Section class="hero">
+        <div class="container">
+          <form id="formSearch">
+            <input type="search" placeholder=" O que deseja comer hoje?" name="inputSearch" id="inputSearch">
+          </form>
+        </div>
+      </Section>
+    </header>
+
+    <main>
+      <div class="container">
+        <h3>Pratos</h3>
+
+        <section class="pratos">
+          <article class="prato">
+            <img src="imagens/prato 01.jpg" alt="Prato 01" height="300px">
+            <h4>Prato 01</h4>
+            <h4>R$ 45,00</h4>
+            <p>Salada mista com grande diversidade de folhas (alface, rúcula e agrião), composta com molhos e pastas.Acompanha 100g de peito de frango
+              em tiras e parmesão ralado.Serve uma pessoa.
+            </p>
+              <button type ="button">Quero esse prato!!</button>
+          </article>
+          <article class="prato">
+            <img src="imagens/prato 02.jpg" alt="Prato 02">
+            <h4>Prato 02</h4>
+            <h4>R$ 38,00</h4>
+            <p>Espetinho de legumes saltiados e levados ao forno ao molho teriyaki e pasta de pimenta malagueta, acompanha salada de repolho ao dente
+              com cebola ralada.Serve até duas pessoas.
+            </p>
+              <button type ="button">Quero esse prato</button>
+          </article>
+          <article class="prato">
+            <img src="imagens/prato 03.jpg" alt="Prato 03"height="300px">
+            <h4>Prato 03</h4>
+            <h4>R$ 20,00</h4>
+            <p>Omele feito na mantega, recheado com gorgonsola, ervas e pasta de abacate,limão e cubos de tomate,acompanhado com merenge suiço
+              e folhas de rúcula,Serve uma pessoa.
+            </p>
+              <button type ="button">Quero esse prato</button>
+          </article>
+          <article class="prato">
+            <img src="imagens/prato 04.jpg" alt="Prato 04"height="300px">
+            <h4>Prato 04</h4>
+            <h4>R$ 30,00</h4>
+            <p>Torradas salteadas e salpicadas com flor de sal, recheadas com pasta de abacate,limão e cubos de tomate e
+              espinafre cozido, acompanha ovo frito.Serve até duas pessoas  </p>
+              <button type ="button">Quero esse prato</button>
+          </article>
         </section>
-</body>
+      </div>
+    </main>
+    <footer>
+      <div class ="container">
+        <p>Desenvolvido com amor por Amandha Machado!:)</p>
+      </div>
+    </footer>
+  </body>
 </html>
