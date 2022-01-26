@@ -28,7 +28,7 @@
             background-color: darkseagreen;
             width: 60px;
             left: 10px;
-            height: 565px;
+            height: 568px;
         }
         #page>footer{
             grid-area: footer;
@@ -38,7 +38,7 @@
         #page>main{
             grid-area: main;
             background-color: khaki;
-            height: 500px;
+            height: 505px;
         }
         h1{
             color:black;
