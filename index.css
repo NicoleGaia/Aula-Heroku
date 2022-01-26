@@ -35,7 +35,7 @@
   }
   
   header .hero {
-    background-image: url('../imagens/capa.jpg');
+    background-image: url('../Aula-Heroku/img/Capa.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
