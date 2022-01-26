@@ -33,7 +33,7 @@
         #page>footer{
             grid-area: footer;
             background-color: darksalmon;
-            height: 63px;
+            height: 61px;
         }
         #page>main{
             grid-area: main;
