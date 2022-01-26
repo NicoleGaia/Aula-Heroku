@@ -45,33 +45,32 @@
             <img src="img/foto2.jpg" alt="Foto 2">
             <h4>Cardigan Tricô</h4>
             <h4>R$ 85,00</h4>
-            <p>Cardigan de tricô semi-novo, azul marinho.
+            <p>Cardigan de tricô semi-novo, azul marinho, Tam: M
             </p>
               <button type ="button">Buy it</button>
           </article>
-          <article class="prato">
-            <img src="imagens/prato 03.jpg" alt="Prato 03"height="300px">
-            <h4>Prato 03</h4>
-            <h4>R$ 20,00</h4>
-            <p>Omele feito na mantega, recheado com gorgonsola, ervas e pasta de abacate,limão e cubos de tomate,acompanhado com merenge suiço
-              e folhas de rúcula,Serve uma pessoa.
+          <article class="clothe">
+            <img src="img/foto3.jpg" alt="Foto 3"height="300px">
+            <h4>Sapato Social</h4>
+            <h4>R$ 60,00</h4>
+            <p>Sapato social semi-novo, couro, preto, Tam: 42
             </p>
-              <button type ="button">Quero esse prato</button>
+              <button type ="button">Buy it</button>
           </article>
-          <article class="prato">
-            <img src="imagens/prato 04.jpg" alt="Prato 04"height="300px">
-            <h4>Prato 04</h4>
-            <h4>R$ 30,00</h4>
-            <p>Torradas salteadas e salpicadas com flor de sal, recheadas com pasta de abacate,limão e cubos de tomate e
-              espinafre cozido, acompanha ovo frito.Serve até duas pessoas  </p>
-              <button type ="button">Quero esse prato</button>
+          <article class="clothe">
+            <img src="img/foto4.jpg" alt="Foto 4"height="300px">
+            <h4>Calça Jeans</h4>
+            <h4>70,00</h4>
+            <p>Calça Jeans semi-nova, lavagem clara, Tam: 40
+            </p>
+              <button type ="button">Buy it</button>
           </article>
         </section>
       </div>
     </main>
     <footer>
       <div class ="container">
-        <p>Desenvolvido com amor por NINI!:)</p>
+        <p>Criado por Nicole Gaia</p>
       </div>
     </footer>
   </body>
