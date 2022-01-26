@@ -12,10 +12,11 @@
   <body>
     <header>
       <nav>
-        
+        <div class="container">
+          <a href="index.html" class="logo">
             <h1>Brechó da Ni</h1>
-          <div class="menu">
-          </div>
+          </a>
+        </div>
       </nav>
 
       <Section class="hero">
