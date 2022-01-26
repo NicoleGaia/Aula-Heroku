@@ -29,12 +29,12 @@
         #page>footer{
             grid-area: footer;
             background-color: darksalmon;
-            height: 100px;
+            height: 85px;
         }
         #page>main{
             grid-area: main;
             background-color: khaki;
-            height: 1000px;
+            height: 800px;
         }
         h1{
             color:black;
