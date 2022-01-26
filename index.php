@@ -27,7 +27,7 @@
             grid-area: nav;
             background-color: darkseagreen;
             width: 60px;
-            height: 700px;
+            height: 300px;
         }
         #page>footer{
             grid-area: footer;
