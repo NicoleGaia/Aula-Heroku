@@ -80,7 +80,7 @@
     </main>
     <footer>
       <div class ="container">
-        <p>Desenvolvido com amor por Amandha Machado!:)</p>
+        <p>Desenvolvido com amor por NINI!:)</p>
       </div>
     </footer>
   </body>
