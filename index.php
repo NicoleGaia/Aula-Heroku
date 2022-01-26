@@ -37,7 +37,7 @@
             <img src="img/foto1.jpg" alt="Foto 1" height="300px">
             <h4>Bolsa</h4>
             <h4>R$ 100,00</h4>
-            <p>Bolsa semi-nova, tricô, rosa.
+            <p>Bolsa semi-nova, tricô, rosa, alça fina.
             </p>
               <button type ="button">Buy it</button>
           </article>
