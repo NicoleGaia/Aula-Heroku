@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width-device-width">
-    <title>Grid</title>
+    <title>Aula Heroku</title>
     <style>
         #page{
             display: grid;
