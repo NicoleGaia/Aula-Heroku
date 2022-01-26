@@ -54,7 +54,7 @@
             height: 40px;
         }
         h1{
-            top: 30px;
+            top: 80px;
         }
 
     </style>
