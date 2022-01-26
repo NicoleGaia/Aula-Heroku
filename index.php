@@ -22,7 +22,7 @@
       <Section class="hero">
         <div class="container">
           <form id="formSearch">
-            <input type="search" placeholder=" O que deseja comer hoje?" name="inputSearch" id="inputSearch">
+            <input type="search" placeholder=" O que deseja vestir?" name="inputSearch" id="inputSearch">
           </form>
         </div>
       </Section>
@@ -37,7 +37,7 @@
             <img src="img/foto1.jpg" alt="Foto 1" height="300px">
             <h4>Bolsa</h4>
             <h4>R$ 100,00</h4>
-            <p>Bolsa semi-nova, trico, rosa.
+            <p>Bolsa semi-nova, tricô, rosa.
             </p>
               <button type ="button">Buy it</button>
           </article>
