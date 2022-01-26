@@ -34,6 +34,7 @@
         #page>main{
             grid-area: main;
             background-color: khaki;
+            height: 1000px;
         }
         h1{
             color:black;
