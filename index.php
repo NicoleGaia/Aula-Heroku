@@ -28,7 +28,7 @@
             background-color: darkseagreen;
             width: 60px;
             left: 10px;
-            height: 568px;
+            height: 570px;
         }
         #page>footer{
             grid-area: footer;
