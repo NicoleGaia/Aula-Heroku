@@ -26,7 +26,7 @@
         #page>nav{
             grid-area: nav;
             background-color: darkseagreen;
-            width: 30px;
+            width: 80px;
         }
         #page>footer{
             grid-area: footer;
@@ -36,7 +36,7 @@
         #page>main{
             grid-area: main;
             background-color: khaki;
-            height: 500px;
+            height: 400px;
         }
         h1{
             color:black;
