@@ -21,13 +21,13 @@
         #page>header{
             grid-area: header;
             background-color: cornflowerblue;
-            height: 80px;
+            height: 85px;
         }
         #page>nav{
             grid-area: nav;
             background-color: darkseagreen;
             width: 60px;
-            height: 555px;
+            height: 560px;
         }
         #page>footer{
             grid-area: footer;
@@ -37,7 +37,7 @@
         #page>main{
             grid-area: main;
             background-color: khaki;
-            height: 480px;
+            height: 490px;
         }
         h1{
             color:black;
