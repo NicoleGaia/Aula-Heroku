@@ -30,17 +30,16 @@
 
     <main>
       <div class="container">
-        <h3>Pratos</h3>
+        <h3>Clothes</h3>
 
-        <section class="pratos">
-          <article class="prato">
-            <img src="imagens/prato 01.jpg" alt="Prato 01" height="300px">
-            <h4>Prato 01</h4>
-            <h4>R$ 45,00</h4>
-            <p>Salada mista com grande diversidade de folhas (alface, rúcula e agrião), composta com molhos e pastas.Acompanha 100g de peito de frango
-              em tiras e parmesão ralado.Serve uma pessoa.
+        <section class="clothes">
+          <article class="clothe">
+            <img src="img/foto1.jpg" alt="Foto 1" height="300px">
+            <h4>Bolsa</h4>
+            <h4>R$ 100,00</h4>
+            <p>Bolsa semi-nova, trico, rosa.
             </p>
-              <button type ="button">Quero esse prato!!</button>
+              <button type ="button">Buy it</button>
           </article>
           <article class="prato">
             <img src="imagens/prato 02.jpg" alt="Prato 02">
