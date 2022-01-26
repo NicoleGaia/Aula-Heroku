@@ -68,12 +68,12 @@
     margin-bottom: 20px;
   }
   
-  main .container .pratos {
+  main .container .clothes {
     display: flex;
     flex-direction: column;
   }
   
-  .prato {
+  .clothe {
     background-color: #fff;
     margin-bottom: 50px;
     display: flex;
@@ -83,28 +83,28 @@
     transition: 0.3s ease;
   }
   
-  .prato:hover {
+  .clothe:hover {
     background-color: #f5f5f5;
   }
   
-  .prato img {
+  .clothe img {
     border-radius: 50px 50px 0px 0px;
     margin-bottom: 10px;
   }
   
-  .prato h4 {
+  .clothe h4 {
     padding: 0px 20px;
     text-align: center;
     font-size: 1.2rem;
     margin-bottom: 5px;
   }
   
-  .prato p {
+  .clothe p {
     padding: 0px 20px;
     font-size: 1rem;
   }
   
-  .prato button {
+  .clothe button {
     width: 200px;
     margin: 20px auto;
     padding: 10px;
@@ -119,7 +119,7 @@
     transition: 0.3s ease;
   }
   
-  .prato button:hover {
+  .clothe button:hover {
     background-color: #dedede;
     color:#000
   }
@@ -132,31 +132,16 @@
   footer .container p{
     text-align: center;
   }
-  
-  .hero-sobre {
-    height: 300px;
-    background-color: #111;
-    color: #111;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url(../imagens/Restaurante.jpg)
-  }
-  
-  .hero-sobre .container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+
   
   @media (min-width: 600px) {
-    main .container .pratos{
+    main .container .clothes{
       flex-direction: row;
       justify-content: space-around;
       flex-wrap: wrap;
     }
   
-    main .container .pratos .prato {
+    main .container .clothes .clothe{
       width: 300px;
     }
   }
