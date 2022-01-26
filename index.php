@@ -49,6 +49,10 @@
             text-align: center;
             height: 50px;
         }
+        p{
+            text-align: center;
+            height: 40px;
+        }
 
     </style>
 </head>
