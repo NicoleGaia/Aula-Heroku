@@ -55,7 +55,7 @@
 <body>
 <section id="page">
             <header>
-                <h2>Aula Heroku</h2> <h1>- Nicole Gaia</h1>
+                <h2>Aula Heroku- Nicole Gaia</h2> 
             </header>
             <nav>
                 <h1>
