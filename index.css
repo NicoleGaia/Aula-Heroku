@@ -38,7 +38,7 @@
     background-image: url('img/tela.gif');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left;
     height: 300px;
     display:  flex;
     justify-content: left;
