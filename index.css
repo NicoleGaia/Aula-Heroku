@@ -41,7 +41,7 @@
     background-position: center;
     height: 300px;
     display:  flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
   }
   
