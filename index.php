@@ -29,7 +29,7 @@
         #page>footer{
             grid-area: footer;
             background-color: darksalmon;
-            width: 60px;
+            width: 600px;
         }
         #page>main{
             grid-area: main;
