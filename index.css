@@ -37,6 +37,7 @@
   
   header .hero {
     background-image: url('img/Capa.jpg');
+    background-image: url('img/tela.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
