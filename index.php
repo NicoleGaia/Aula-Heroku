@@ -13,7 +13,7 @@
     <header>
       <nav>
         <div class="container">
-          <a href="index.html" class="logo">
+          <a href="index.php" class="logo">
             <h1>Brechó da Ni</h1>
           </a>
         </div>
