@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Brechó da Ni</title>
     <link rel="icon" type="img/png" href="clothes.png">
+    <link rel="stylesheet" href="index.css">
   </head>
   <body>
     <header>
