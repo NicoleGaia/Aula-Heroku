@@ -31,7 +31,7 @@
 
     <main>
       <div class="container">
-        <h3>Clothes</h3>
+        <h3><i>Clothes</i></h3>
 
         <section class="clothes">
           <article class="clothe">
