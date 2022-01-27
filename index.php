@@ -15,7 +15,7 @@
       <nav>
         <div class="container">
           <a href="index.php" class="logo">
-            <h1>Brechó da Ni</h1>
+            <h1><li>Brechó da Ni</li></h1>
           </a>
         </div>
       </nav>
