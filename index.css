@@ -38,10 +38,10 @@
     background-image: url('img/tela.gif');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
     height: 300px;
     display:  flex;
-    justify-content: left;
+    justify-content: right;
     align-items: center;
   }
   
