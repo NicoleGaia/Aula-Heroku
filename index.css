@@ -38,16 +38,16 @@
     background-image: url('img/tela.gif');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: center;
     height: 300px;
     display:  flex;
-    justify-content: right;
+    justify-content: center;
     align-items: center;
   }
   
   header .hero #formSearch{
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
   }
   
