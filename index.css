@@ -24,7 +24,7 @@
   
   header nav .logo {
     color: #fff;
-    text-decoration: line-through;
+    text-decoration: overline;
   }
   
   header nav .menu a {
